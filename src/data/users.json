@@ -1,0 +1,49 @@
+[
+  {
+    "id": "usr_01",
+    "username": "athlete_alex",
+    "password": "password123",
+    "name": "Alex Mercer",
+    "role": "user",
+    "email": "alex.mercer@apex.com",
+    "assignedTrainerId": "trn_01",
+    "fitnessGoal": "Hypertrophy and Strength"
+  },
+  {
+    "id": "usr_02",
+    "username": "athlete_sarah",
+    "password": "password123",
+    "name": "Sarah Connor",
+    "role": "user",
+    "email": "sarah.c@apex.com",
+    "assignedTrainerId": "trn_02",
+    "fitnessGoal": "Endurance and Conditioning"
+  },
+  {
+    "id": "trn_01",
+    "username": "coach_marcus",
+    "password": "password123",
+    "name": "Marcus Vance",
+    "role": "trainer",
+    "email": "m.vance@apexperformance.com",
+    "specialty": "Strength and Conditioning"
+  },
+  {
+    "id": "trn_02",
+    "username": "coach_elena",
+    "password": "password123",
+    "name": "Elena Rostova",
+    "role": "trainer",
+    "email": "e.rostova@apexperformance.com",
+    "specialty": "Mobility and Posture"
+  },
+  {
+    "id": "adm_01",
+    "username": "admin_chief",
+    "password": "adminpassword",
+    "name": "Chief Director Nolan",
+    "role": "admin",
+    "email": "admin@apexsystems.com",
+    "department": "Platform Operations"
+  }
+]

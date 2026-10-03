@@ -1,0 +1,1922 @@
+[
+  {
+    "id": 1,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips",
+      "Legs - Calves and Shins",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Bodyweight Squat",
+    "description": "Stand with your feet hip-width apart and your abs braced. Push your hips back and bend your knees to lower as if sitting into a chair, keeping your chest up and heels on the floor. Press through your feet to stand back up.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 2,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Back",
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Childs Pose",
+    "description": "Kneel on the floor, sit your hips back toward your heels and reach your arms forward along the mat. Rest your forehead down and breathe slowly. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 3,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Back"
+    ],
+    "exerciseName": "Cobra Exercise",
+    "description": "Lie face down with your hands under your shoulders and your legs extended. Gently press your chest up off the floor while keeping your hips down and your abs lightly tight, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 4,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Crunch",
+    "description": "Lie on your back with knees bent and feet flat. Tighten your abs and curl your head and shoulders a short way off the floor, then lower slowly without pulling on your neck.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 5,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips"
+    ],
+    "exerciseName": "Dirty Dog",
+    "description": "Start on your hands and knees with a flat back and braced abs. Lift one bent knee out to the side without twisting your hips, then lower it back down. Finish all reps on one leg before switching.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 6,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips"
+    ],
+    "exerciseName": "Glute Bridge Exercise",
+    "description": "Lie on your back with knees bent and feet flat, hip-width apart. Tighten your abs, then squeeze your glutes to lift your hips off the floor while pressing your heels down. Don't lift so high that your lower back arches, and lower slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 7,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Partner Assisted Bodyweight Squats",
+    "description": "Stand facing a partner and hold hands or forearms for balance. Sit your hips back and bend your knees into a squat with your chest up, using your partner's light support to stay steady, then stand back up.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 8,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips"
+    ],
+    "exerciseName": "Quadruped Bent-knee Hip Extension",
+    "description": "Start on your hands and knees with a flat back and braced abs. Keeping the knee bent, lift one leg until your thigh is in line with your body and squeeze your glute at the top. Lower with control without arching your back.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 9,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Back",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Seated Side-Straddle Stretch",
+    "description": "Sit tall with your legs spread wide and knees straight. Lean toward one leg, reaching both hands toward your foot, until you feel a stretch along your inner thigh and back. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 10,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips"
+    ],
+    "exerciseName": "Side Plank - modified",
+    "description": "Lie on your side with knees bent and your forearm on the floor under your shoulder. Lift your hips until your body makes a straight line from knees to shoulders and hold, keeping your abs tight. Repeat on the other side.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 11,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Single Leg Stand",
+    "description": "Stand tall with your abs braced and lift one foot slightly off the floor. Balance on the other leg for 15-30 seconds without leaning or letting your hips drop, then switch legs.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 12,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Supine Hollowing with Lower Extremity Movement",
+    "description": "Lie on your back with knees bent. Gently draw your belly button in toward your spine to tighten your deep abs, then move one leg slowly while keeping that tension and your lower back still. Breathe normally throughout.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 13,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Supine Dead Bug",
+    "description": "Lie on your back with your arms reaching toward the ceiling and knees bent above your hips. Press your lower back lightly into the floor, then slowly lower the opposite arm and leg toward the floor and bring them back. Alternate sides without arching your back.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 14,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Supine Pelvic Tilts",
+    "description": "Lie on your back with knees bent and feet flat. Tighten your abs to press your lower back gently into the floor by tilting your pelvis, hold for a moment, then relax. Keep the movement small and slow.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 15,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Supine Reverse Marches",
+    "description": "Lie on your back with your abs braced. Slowly lift one foot and then the other in a marching motion, keeping your lower back flat and your pelvis still.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 16,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Shoulders"
+    ],
+    "exerciseName": "Supine Rotator Cuff",
+    "description": "Lie on your back with your elbow bent to 90 degrees and tucked by your side. Keeping your elbow in place, slowly rotate your forearm outward and back to the start. Repeat on both arms.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 17,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Chest",
+      "Shoulders"
+    ],
+    "exerciseName": "Supine Snow Angel (Wipers) Exercise",
+    "description": "Lie on your back with your arms and legs extended. Slowly slide your arms and legs out to the sides and back together like making a snow angel, keeping your lower back gently pressed toward the floor.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 18,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Back"
+    ],
+    "exerciseName": "Upward Facing Dog",
+    "description": "Lie face down with your hands beside your ribs. Press through your hands to straighten your arms, lifting your chest and thighs off the floor while the tops of your feet stay down. Keep your shoulders away from your ears, hold briefly, then lower.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 19,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Chest",
+      "Shoulders"
+    ],
+    "exerciseName": "Bent Knee Push-up",
+    "description": "Start on your hands and knees with your hands a little wider than your shoulders and your body in a straight line from head to knees. Bend your elbows to lower your chest toward the floor, then push back up with your abs tight.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 20,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Overhead Triceps Stretch",
+    "description": "Raise one arm overhead, bend the elbow and let your hand reach down your back. Use your other hand to gently press the elbow back. Hold for 15-30 seconds, then switch arms.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 21,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Seated Bent-Knee Biceps Stretch",
+    "description": "Sit on the floor with your knees bent and your hands on the floor behind you, fingers pointing back. Slowly slide your hips forward until you feel a stretch in the front of your arms. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 22,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Standing Shoulder Extension",
+    "description": "Stand tall and clasp your hands behind your back. Straighten your arms and lift them gently backward until you feel a stretch in the front of your shoulders. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 23,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Back"
+    ],
+    "exerciseName": "90 Lat Stretch",
+    "description": "Stand facing a table or sturdy support with your feet hip-width apart. Hinge forward at the hips and rest your straight arms on it, then lean back into your hips so your torso lowers, keeping a flat back and a slight bend in your knees. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 24,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Back",
+      "Chest"
+    ],
+    "exerciseName": "Cat-Cow",
+    "description": "Start on your hands and knees. Slowly round your back up toward the ceiling, then dip your belly and lift your chest and tailbone. Move smoothly between the two positions with your breathing.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 25,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Back",
+      "Butt/Hips",
+      "Shoulders"
+    ],
+    "exerciseName": "Contralateral Limb Raises",
+    "description": "Lie face down with your legs extended and your arms stretched overhead. Tighten your core and slowly raise one arm a few inches off the floor, hold briefly and lower. As you progress, lift the opposite arm and leg together, keeping your back and neck still.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 26,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Back",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Seated Straddle Stretch",
+    "description": "Sit with your legs spread wide and knees straight, then walk your hands forward on the floor between your legs while keeping your back long. Stop when you feel a stretch through your inner thighs and lower back. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 27,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Back",
+      "Shoulders"
+    ],
+    "exerciseName": "Shoulder Packing",
+    "description": "Stand or lie with your arms relaxed by your sides. Gently pull your shoulder blades down and back without arching your lower back. Hold for a few seconds and relax.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 28,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Back",
+      "Butt/Hips",
+      "Shoulders"
+    ],
+    "exerciseName": "Supermans",
+    "description": "Lie face down with your arms extended overhead and legs straight. Lift your arms and legs a few inches off the floor at the same time, hold briefly, then lower slowly. Keep your neck relaxed and avoid arching your lower back.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 29,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Kneeling Hip-flexor Stretch",
+    "description": "Kneel on one knee with the other foot placed forward, knee above your ankle. Tighten your abs, gently tuck your pelvis and shift forward until you feel a stretch at the front of your back hip. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 30,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Kneeling TA Stretch",
+    "description": "Kneel with your knees hip-width apart and your feet pointing back. Keep your abs braced, then sit your hips back toward your heels, placing your fingertips lightly on the floor behind you. Hold for 15-30 seconds, and come out slowly if you feel any knee discomfort.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 31,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Leg Crossover Stretch",
+    "description": "Lie on your back with your legs straight. Bring one knee up and guide it across your body to the opposite side, keeping your shoulders on the floor. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 32,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Side Lying Hip Adduction",
+    "description": "Lie on your side with your legs extended and your upper arm resting on your hip. Move your bottom leg slightly forward, then lift it a few inches off the floor and lower it slowly, keeping your hips stacked.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 33,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips"
+    ],
+    "exerciseName": "Side Lying Hip Abduction",
+    "description": "Lie on your side with your legs straight and your hips stacked. Keeping your top knee and toes pointing forward, lift your top leg a little way up and lower it slowly without rolling your hips backward.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 34,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Squat Jump",
+    "description": "Stand with your feet shoulder-width apart and lower into a squat. Jump up explosively, land softly on bent knees and go straight into the next squat. Stop if your form starts to slip.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 35,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Standing Lunge Stretch",
+    "description": "Stand in a long split stance with your back leg straight and your front knee bent over your ankle. Tuck your pelvis and shift your weight forward until you feel a stretch at the front of your back hip and thigh. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 36,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Supine 90-90 Hip Rotator Stretch",
+    "description": "Lie on your back with your hips and knees bent at 90 degrees and your feet in the air. Cross one ankle over the opposite knee and gently pull your legs toward your chest until you feel a stretch in your outer hip. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 37,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Supine Hip Flexor Stretch",
+    "description": "Lie on your back and hug one knee toward your chest while keeping the other leg straight and relaxed on the floor. You should feel a stretch at the front of the straight leg's hip. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 38,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Thomas Stretch",
+    "description": "Sit at the edge of a bench or table, then lie back while pulling one knee to your chest and letting the other leg hang off the edge. Relax the hanging leg to stretch the front of your hip and thigh. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 39,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Chest"
+    ],
+    "exerciseName": "Standing Chest Stretch",
+    "description": "Stand tall with your arms out to the sides at shoulder height and palms facing forward. Gently pull your arms back and squeeze your shoulder blades together until you feel a stretch across your chest. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 40,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins"
+    ],
+    "exerciseName": "Seated Calf Stretch",
+    "description": "Sit with one leg straight in front of you. Loop a towel or band around the ball of that foot and gently pull your toes toward you, keeping your knee straight. Hold for 15-30 seconds, then switch legs.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 41,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Seated Toe Touches",
+    "description": "Sit with your legs straight out in front of you and your back tall. Slowly reach your hands toward your toes, bending from the hips, until you feel a stretch behind your legs. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 42,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins"
+    ],
+    "exerciseName": "Standing Calf Raises - Wall",
+    "description": "Stand facing a wall with your hands on it for balance. Slowly rise onto your toes as high as you can, pause, then lower your heels back down with control.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 43,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins"
+    ],
+    "exerciseName": "Standing Dorsi-Flexion (Calf Stretch)",
+    "description": "Stand facing a wall and step one foot back with your heel down and toes pointing forward. Lean toward the wall, keeping the back knee straight, until you feel a stretch in your calf. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 44,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Supine Hamstrings Stretch",
+    "description": "Lie on your back and lift one leg, holding behind your thigh or calf (or using a towel). Gently straighten the knee until you feel a stretch behind your thigh, keeping the other leg relaxed on the floor. Hold for 15-30 seconds, then switch legs.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 45,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Neck"
+    ],
+    "exerciseName": "Lateral Neck Flexion",
+    "description": "Sit or stand tall with your shoulders relaxed. Slowly tilt your ear toward your shoulder until you feel a gentle stretch along the side of your neck, without lifting your shoulder. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 46,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Neck"
+    ],
+    "exerciseName": "Neck Flexion and Extension",
+    "description": "Sit tall with your shoulders relaxed. Slowly lower your chin toward your chest, then gently tilt your head back to look up, moving only as far as feels comfortable. Keep the movement slow and smooth.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 47,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Supine Shoulder Flexion",
+    "description": "Lie on your back with your arms by your sides. Keeping your arms straight, slowly raise them up and over your head toward the floor behind you, then bring them back down. Keep your ribs down so your lower back doesn't arch.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 48,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Modified Hurdler's Stretch",
+    "description": "Sit with one leg straight and the other knee bent, with the foot resting against the inside of your straight leg. Lean forward from your hips over the straight leg until you feel a stretch behind your thigh. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 49,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Seated Butterfly Stretch",
+    "description": "Sit tall and bring the soles of your feet together, letting your knees fall out to the sides. Hold your feet and gently lean forward, or press your knees toward the floor, until you feel a stretch in your inner thighs. Hold for 15-30 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 50,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Side Lying Quadriceps Stretch",
+    "description": "Lie on your side and bend your top knee, holding your ankle with your top hand. Gently pull your heel toward your glute, keeping your knees close together, until you feel a stretch in the front of your thigh. Hold for 15-30 seconds, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 51,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Full Body/Integrated",
+      "Legs - Calves and Shins",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Forward Linear Jumps",
+    "description": "Stand with your feet hip-width apart, bend your knees and swing your arms back. Jump forward as far as you can with both feet, land softly on bent knees and reset before the next jump.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 52,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "No Equipment"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Full Body/Integrated",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Warrior I",
+    "description": "Take a big step forward into a lunge, with your front foot pointing ahead and your back foot turned out slightly with the heel down. Bend your front knee without letting it pass your toes and raise your arms overhead. Hold for a few breaths, then switch sides.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 53,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "BOSU Trainer"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Decline Plank",
+    "description": "Place your forearms on the ground with your feet together on top of a BOSU dome. Squeeze your abs and glutes to keep your body in a straight line from head to heels, and hold without letting your hips sag.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 54,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Cones"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Butt/Hips"
+    ],
+    "exerciseName": "Forward Stepping over Cones",
+    "description": "Set up a line of cones and stand tall at one end. Lift one knee high to step over each cone, one foot at a time, keeping your abs braced and your torso upright as you move forward.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 55,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Bands/Cables"
+    ],
+    "bodyParts": [
+      "Full Body/Integrated"
+    ],
+    "exerciseName": "Anti-rotation Reverse Lunge",
+    "description": "Anchor a band at chest height and stand sideways to it, holding the handle in both hands at your chest. Step one leg back into a reverse lunge while resisting the band's pull so your torso doesn't twist, then step back to standing.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 56,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Bands/Cables"
+    ],
+    "bodyParts": [
+      "Butt/Hips"
+    ],
+    "exerciseName": "Walking Abduction",
+    "description": "Place a resistance band around your legs (above the knees or at the ankles) and stand with a slight bend in your knees. Take small side steps with your toes pointing forward and the band tight, then step back the other way.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 57,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Medicine Ball"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Half-kneeling Hay Baler",
+    "description": "Kneel on one knee with the other foot forward, holding a medicine ball. Keeping your abs braced, swing the ball diagonally from beside one hip up across your body toward the opposite shoulder, like baling hay, then return.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 58,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Stability Ball"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Kneeling ABC's",
+    "description": "Kneel behind a stability ball and rest your forearms or hands on top of it. With your abs braced, roll the ball around to draw the letters A, B and C in the air, keeping your back flat.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 59,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Abs",
+      "Arm",
+      "Back",
+      "Butt/Hips"
+    ],
+    "exerciseName": "Partner Tricep Extension",
+    "description": "Face your partner in a slight hip hinge with knees slightly bent, each holding handles of a shared X-pattern resistance band. With your abs braced, keep one arm straight while you bend and straighten the other against the band's pull, then alternate arms together.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 60,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machine / Selectorized"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Seated Crunch",
+    "description": "Sit on the machine, adjust the seat and pad, and hold the handles. Tighten your abs and curl your torso forward against the weight, then return slowly to the start.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 61,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Medicine Ball"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Seated Medicine Ball Trunk Rotations",
+    "description": "Sit tall with your knees bent, holding a medicine ball at your chest. Rotate your torso slowly to one side, then to the other, keeping your hips still and your back straight.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 62,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Stability Ball"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Stability Ball Sit-ups / Crunches",
+    "description": "Sit on a stability ball and walk your feet out so the ball supports your lower back. Tighten your abs and curl your shoulders up toward your hips, then lower back over the ball with control.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 63,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "Standing Crunch",
+    "description": "Anchor a band or cable overhead and hold the handle at your chest. Keep your hips still, tighten your abs and curl your torso downward, then return slowly to standing.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 64,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Medicine Ball"
+    ],
+    "bodyParts": [
+      "Abs"
+    ],
+    "exerciseName": "V Sit Partner Rotations",
+    "description": "Sit facing your partner with knees bent and heels on the floor, leaning back slightly with a straight spine. Holding a medicine ball, rotate side to side and pass it to your partner, keeping your abs tight.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 3
+    }
+  },
+  {
+    "id": 65,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Barbell",
+      "Bench",
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Chest",
+      "Shoulders"
+    ],
+    "exerciseName": "Chest Press",
+    "description": "Lie on a bench with your feet on the floor and hold the bar or dumbbells above your chest. Lower it slowly to the middle of your chest, then press back up until your arms are straight.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 66,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Band",
+      "Dumbbells",
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Seated Biceps Curl",
+    "description": "Sit tall holding dumbbells, a band or the machine handles with your arms down and elbows at your sides. Curl the weight up toward your shoulders, then lower slowly without swinging.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 67,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Chest"
+    ],
+    "exerciseName": "Seated Close-Grip Chest Press",
+    "description": "Sit on the chest press machine with your back against the pad and hold the close-grip handles at chest height. Push forward until your arms are almost straight, then return slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 68,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Bench",
+      "Resistance Band/Cables",
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Back",
+      "Shoulders"
+    ],
+    "exerciseName": "Seated High Back Row",
+    "description": "Sit tall with the handles at upper-chest height, using a machine, band or bench setup. Pull the handles toward your upper chest while squeezing your shoulder blades together, then let them return slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 69,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Shoulders"
+    ],
+    "exerciseName": "Seated Machine Close-Grip Shoulder Press",
+    "description": "Sit with your back against the pad and hold the close-grip handles at shoulder height. Press upward until your arms are almost straight, then lower slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 70,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables",
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Back"
+    ],
+    "exerciseName": "Seated Row",
+    "description": "Sit tall with your feet braced and hold the handles with your arms extended. Pull the handles toward your body, keeping your elbows close and squeezing your shoulder blades together, then return slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 71,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm",
+      "Shoulders"
+    ],
+    "exerciseName": "Seated Shoulder Press",
+    "description": "Sit with your back supported and hold the handles at shoulder height. Press overhead until your arms are almost straight, then lower under control.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 72,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Standing Bicep Curl",
+    "description": "Stand on a band (or face a cable) with your arms down and elbows tucked at your sides. Curl your hands toward your shoulders, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 73,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Tricep Extension",
+    "description": "Sit on the machine with your upper arms supported and hold the handles. Straighten your arms against the resistance, then bend them back slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 74,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Tricep Pressdown Exercise",
+    "description": "Stand facing an anchored band or cable set high, holding the handle with your elbows tucked at your sides. Push your hands down until your arms are straight, then return slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 75,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Triceps Kickback",
+    "description": "Hold a dumbbell and hinge forward at the hips, keeping your upper arm tight to your side with the elbow bent. Straighten your arm backward, squeeze your triceps, then bend it back slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 76,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Triceps Pressdown",
+    "description": "Stand facing a high cable or anchored band and hold the bar or handle at chest height with your elbows tucked in. Press down until your arms are straight, keeping your upper arms still, then let it rise slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 77,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Triceps Pushdowns",
+    "description": "Sit or stand at the machine with the handle above you and your elbows close to your sides. Push the handle down until your arms are straight, then return with control.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 78,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Band",
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Wrist Curl - Extension",
+    "description": "Rest your forearm on your thigh or a bench with your palm facing down, holding a dumbbell or band. Lift the back of your hand up by bending your wrist, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 79,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Band",
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Wrist Curl - Flexion",
+    "description": "Rest your forearm on your thigh or a bench with your palm facing up, holding a dumbbell or band. Curl your hand upward by bending your wrist, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 80,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Equipment: Band",
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Arm"
+    ],
+    "exerciseName": "Wrist Supination & Pronation Exercises",
+    "description": "Rest your forearm on your thigh with your elbow bent, holding a light dumbbell or band. Slowly rotate your forearm so your palm faces up, then rotate it back so your palm faces down.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 81,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Band",
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Back",
+      "Shoulders"
+    ],
+    "exerciseName": "Incline Reverse Fly",
+    "description": "Lie chest-down on an incline bench, holding light dumbbells or bands with your arms hanging down. Raise your arms out to the sides while squeezing your shoulder blades together, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 82,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Bench"
+    ],
+    "bodyParts": [
+      "Back"
+    ],
+    "exerciseName": "Kneeling Lat Stretch (w/bench)",
+    "description": "Kneel in front of a bench and place your hands on it with your arms straight. Keeping your abs braced and your back flat, lean back into your hips to feel a stretch along your upper back and sides. Hold for about 30-45 seconds.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 83,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Back"
+    ],
+    "exerciseName": "Seated Lat Pulldown",
+    "description": "Sit at the machine with your thighs under the pads and grip the bar wider than your shoulders. Pull the bar down to your upper chest while squeezing your shoulder blades, then let it rise slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 84,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Hurdles"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Calves and Shins"
+    ],
+    "exerciseName": "Forward Hurdle Run",
+    "description": "Set up a row of low hurdles. Run or step quickly over each one, lifting your knees and landing lightly with your body upright.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 85,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Butt/Hips"
+    ],
+    "exerciseName": "Glute Press",
+    "description": "Sit or lie on the machine with your feet on the platform. Push through your heels until your legs are almost straight and squeeze your glutes, then return slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 86,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Barbell"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Hip Hinge",
+    "description": "Stand with your feet hip-width apart, holding a barbell in front of your thighs. Push your hips back with a flat back and soft knees, lower the bar toward your knees, then squeeze your glutes to stand tall.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 87,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Cones"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Lateral Shuffles",
+    "description": "Set out cones a few meters apart. Get into a slight squat and shuffle quickly from side to side between the cones, keeping your feet from crossing and your chest up.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 88,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Butt/Hips"
+    ],
+    "exerciseName": "Lying Hamstrings Curl",
+    "description": "Lie face down on the machine with the pad just above your heels. Curl your heels toward your glutes, then lower slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 89,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Seated Leg Press Exercise",
+    "description": "Sit with your back against the pad and your feet shoulder-width apart on the platform. Press until your legs are almost straight without locking your knees, then bend them slowly back.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 90,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Reaction Ball/Cones",
+      "Raised Platform/Box"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Calves and Shins",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Single Leg Push-off",
+    "description": "Stand facing a low box with one foot on top and lean slightly forward from your hips. Push down through the foot on the box to lift your body up, then land softly and repeat.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 91,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Stability Ball"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Stability Ball Wall Squats",
+    "description": "Place a stability ball between your lower back and a wall with your feet shoulder-width apart. Lower into a squat as the ball rolls down the wall, then press through your feet to stand.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 92,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Dumbbells",
+      "Raised Platform/Box"
+    ],
+    "bodyParts": [
+      "Butt/Hips",
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Step-up",
+    "description": "Stand facing a box or platform, holding dumbbells at your sides. Step up with one foot, bring the other up to meet it, then step back down. Lead with the same leg for all reps before switching.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 93,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Band",
+      "Bench",
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Chest",
+      "Shoulders"
+    ],
+    "exerciseName": "Incline Chest Press",
+    "description": "Lie on an incline bench with your feet on the floor. Press dumbbells or bands upward from chest height until your arms are straight, then lower slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 94,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables",
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Chest"
+    ],
+    "exerciseName": "Seated Cable Press",
+    "description": "Sit tall with the cable or band handles at chest height. Push them forward until your arms are straight, then return with control.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 95,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Chest"
+    ],
+    "exerciseName": "Seated Chest Press",
+    "description": "Sit with your back against the pad and the handles at chest level. Push forward until your arms are almost straight, then let the handles come back slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 96,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables",
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Chest"
+    ],
+    "exerciseName": "Seated Decline Cable Press",
+    "description": "Sit with the handles set above you. Push them forward and downward until your arms are straight, then return slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 97,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables",
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Chest"
+    ],
+    "exerciseName": "Seated Incline Cable Press",
+    "description": "Sit with the handles set low. Press them up and forward until your arms are straight, then return slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 98,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins"
+    ],
+    "exerciseName": "Ankle Flexion",
+    "description": "Sit with one leg extended and a band secured around the ball of your foot, pulling your foot away from you. Pull your toes back toward your shin against the resistance, then return slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 99,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Legs - Calves and Shins"
+    ],
+    "exerciseName": "Calf Raise",
+    "description": "Stand on the machine with the balls of your feet on the platform and the pads on your shoulders. Rise up onto your toes as high as you can, then lower your heels slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 100,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Front Raise",
+    "description": "Stand holding dumbbells in front of your thighs. Raise your arms straight forward to shoulder height, then lower slowly without swinging.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 101,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Lateral Raise",
+    "description": "Stand holding dumbbells at your sides with a slight bend in your elbows. Raise your arms out to the sides to shoulder height, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 102,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Lateral Shoulder Raise",
+    "description": "Sit with your arms against the pads. Lift your arms out to the sides until they reach shoulder height, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 103,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Rotator Cuff External Rotation",
+    "description": "Hold a band with your elbow bent to 90 degrees and tucked against your side. Rotate your forearm outward, away from your belly, then return slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 104,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Rotator Cuff Internal Rotation",
+    "description": "Hold a band with your elbow bent to 90 degrees and tucked against your side. Rotate your forearm inward toward your belly, then return slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 105,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "Single-arm Lateral Raise",
+    "description": "Stand on a band (or hold a cable) with one hand and raise that arm out to the side to shoulder height, keeping a slight bend in the elbow. Lower slowly, then repeat on the other arm.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 106,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Dumbbells"
+    ],
+    "bodyParts": [
+      "Shoulders"
+    ],
+    "exerciseName": "V-raise",
+    "description": "Stand holding dumbbells in front of your thighs. Raise both arms out and up in a V shape to shoulder height, then lower slowly.",
+    "recommendedSets": {
+      "low": 1,
+      "average": 2,
+      "high": 3
+    }
+  },
+  {
+    "id": 107,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Resistance Band/Cables"
+    ],
+    "bodyParts": [
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Prone (Lying) Hamstrings Curl",
+    "description": "Lie face down with a band secured around your ankle. Curl your heel toward your glute, then lower slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  },
+  {
+    "id": 108,
+    "difficultyLevel": "Beginner",
+    "equipment": [
+      "Weight Machines / Selectorized"
+    ],
+    "bodyParts": [
+      "Legs - Thighs"
+    ],
+    "exerciseName": "Seated Leg Extension",
+    "description": "Sit on the machine with the pad on your lower shins. Straighten your knees to lift the pad, squeeze your thighs, then lower slowly.",
+    "recommendedSets": {
+      "low": 2,
+      "average": 3,
+      "high": 4
+    }
+  }
+]

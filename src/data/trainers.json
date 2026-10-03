@@ -1,0 +1,80 @@
+[
+  {
+    "id": "trn_01",
+    "name": "Marcus Vance",
+    "title": "Head Strength and Conditioning Specialist",
+    "specialty": "Powerlifting, Barbell Mechanics and Hypertrophy",
+    "experience": "8+ Years",
+    "certification": "CSCS, USAW Level 2",
+    "rating": "4.9 / 5.0",
+    "bio": "Specializes in peak neuromuscular output, progressive overload periodization, and compound lift mechanics.",
+    "email": "m.vance@apexperformance.com",
+    "phone": "+1 (555) 438-9201",
+    "availability": "Accepting New Athletes"
+  },
+  {
+    "id": "trn_02",
+    "name": "Elena Rostova",
+    "title": "Master Mobility and Functional Performance Coach",
+    "specialty": "Joint Mobility, Postural Restoration and Kettlebells",
+    "experience": "6+ Years",
+    "certification": "FRCms, FMS Level 2",
+    "rating": "5.0 / 5.0",
+    "bio": "Specializes in kinetic chain alignment, high-volume conditioning recovery, and movement microcycle programming.",
+    "email": "e.rostova@apexperformance.com",
+    "phone": "+1 (555) 892-3310",
+    "availability": "Accepting New Athletes"
+  },
+  {
+    "id": "trn_03",
+    "name": "David Kalu",
+    "title": "Cardiovascular and Metabolic Conditioning Lead",
+    "specialty": "VO2 Max Optimization, Interval Rest Protocols and Endurance",
+    "experience": "10+ Years",
+    "certification": "ACSM-EP, EXOS XPS",
+    "rating": "4.8 / 5.0",
+    "bio": "Focuses on high-density interval protocols, metabolic fatigue tracking, and cardiovascular threshold expansion.",
+    "email": "d.kalu@apexperformance.com",
+    "phone": "+1 (555) 671-8842",
+    "availability": "Accepting New Athletes"
+  },
+  {
+    "id": "trn_04",
+    "name": "Aria Chen",
+    "title": "Biomechanics and Athletic Rehabilitation Specialist",
+    "specialty": "Corrective Exercise, Prehab and Rotational Power",
+    "experience": "7+ Years",
+    "certification": "DPT, CSCS",
+    "rating": "4.9 / 5.0",
+    "bio": "Integrates clinical biomechanics into strength routines to eliminate movement compensation patterns and joint stress.",
+    "email": "a.chen@apexperformance.com",
+    "phone": "+1 (555) 319-7754",
+    "availability": "Accepting New Athletes"
+  },
+  {
+    "id": "trn_05",
+    "name": "Viktor Hansen",
+    "title": "Tactical Conditioning and Bodyweight Systems Coach",
+    "specialty": "Calisthenics, Structural Balance and Grip Strength",
+    "experience": "9+ Years",
+    "certification": "NSCA-CPT, StrongFirst SFG II",
+    "rating": "4.9 / 5.0",
+    "bio": "Expert in high-rep gymnastic conditioning, bodyweight progressive overloading, and unilateral symmetry training.",
+    "email": "v.hansen@apexperformance.com",
+    "phone": "+1 (555) 542-1189",
+    "availability": "Accepting New Athletes"
+  },
+  {
+    "id": "trn_06",
+    "name": "Maya Lin",
+    "title": "Olympic Weightlifting and Explosive Power Specialist",
+    "specialty": "Snatch, Clean and Jerk, Dynamic Effort",
+    "experience": "5+ Years",
+    "certification": "USAW Senior Coach, CSCS",
+    "rating": "4.9 / 5.0",
+    "bio": "Dedicated to triple extension velocity, platform barbell precision, and central nervous system rate-of-force development.",
+    "email": "m.lin@apexperformance.com",
+    "phone": "+1 (555) 782-9014",
+    "availability": "Limited Slots"
+  }
+]
